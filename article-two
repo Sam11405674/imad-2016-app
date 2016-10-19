@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>
+            Article-Two
+            </title>
+        <style>
+         .c1{
+               max-width: 800px;
+               margin: 0 auto;
+               color: #562d2d;
+               font-family: sans-serif;
+               padding-top: 30px;
+               padding-left: 20px;
+               padding-right: 20px;
+         }
+        
+        
+        </style>
+        
+    </head>
+    
+    <body>
+         <div class="c1">
+        <div>
+            <a href="/">http://sam11405674.imad.hasura-app.io/article-one</a>
+            </div>
+        <hr/>
+        
+        <div>
+            <h2>
+                ...Article two ... 
+            </h2>    
+        </div>
+       
+         <div>
+            <p> hello...............saksham is here ..... learning modern web aplication development ....hello...............saksham is here ..... learning modern web aplication development ...hello...............saksham is here ..... learning modern web aplication development 
+                </p>
+            </div>
+            <div>
+            <p> hello...............saksham is here ..... learning modern web aplication development ....hello...............saksham is here ..... learning modern web aplication development ...hello...............saksham is here ..... learning modern web aplication development 
+                </p>
+            </div>
+            <div>
+            <p> hello...............saksham is here ..... learning modern web aplication development ....hello...............saksham is here ..... learning modern web aplication development ...hello...............saksham is here ..... learning modern web aplication development 
+                </p>
+            </div>
+            </div >
+                 </body>
+    
+    
+</html>
